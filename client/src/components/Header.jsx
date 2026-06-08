@@ -19,7 +19,7 @@ function Header() {
   };
 
   return (
-    <header id="header" className="w-full px-6 md:px-12 py-4 md:py-6 flex items-center justify-between sticky bg-[#E8E6E1] bg-gradient-to-b from-white via-white/80 to-transparent backdrop-blur-sm  top-0 z-50 ">
+    <header id="header" className="w-full px-6 md:px-12 py-4 md:py-6 flex items-center justify-between sticky bg-[#E8E6E1] bg-gradient-to-b from-white via-white/80 to-transparent backdrop-blur-sm top-0 z-50 ">
       
       <div className="bg-[#F5F3B0] px-4 py-2 border border-black/10">
         <span className="text-black font-semibold text-sm md:text-base tracking-wider uppercase">
