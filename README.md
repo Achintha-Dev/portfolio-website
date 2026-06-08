@@ -23,7 +23,7 @@ A modern and responsive portfolio website showcasing my projects, technical skil
 
 ## Live Demo
 
-🔗 Portfolio: https://your-portfolio-url.vercel.app
+🔗 Portfolio: portfolio-website-henna-mu-17.vercel.app
 
 ## Preview
 
@@ -56,7 +56,7 @@ Tools:
 Clone the repository
 
 ```bash
-git clone https://github.com/Achintha-Dev/portfolio.git
+git clone https://github.com/Achintha-Dev/portfolio-website.git
 cd client
 npm install
 npm run dev
