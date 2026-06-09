@@ -8,12 +8,12 @@ const projects = [
     link: "https://github.com/Achintha-Dev/silver-path",
     technologies: ["React", "Node.js", "Express.js", "MongoDB", "TailwindCSS", "JWT Authentication", "RESTful API", "Cloudinary", "Leaflet.js"],
     images: [
-      "client/src/images/silver_path/home-page1.png",
-      "client/images/silver_path/destinations-page1.png",
-      "client/images/silver_path/map-page.png",
-      "client/images/silver_path/plan-visit-page1.png",
-      "client/images/silver_path/admin-login-page.png",
-      "client/images/silver_path/admin-dashboard-page.png"
+      "https://github.com/Achintha-Dev/silver-path/blob/main/screenshots/home-page1.png?raw=true",
+      "https://github.com/Achintha-Dev/silver-path/blob/main/screenshots/destinations-page1.png?raw=true",
+      "https://github.com/Achintha-Dev/silver-path/blob/main/screenshots/map-page.png?raw=true",
+      "https://github.com/Achintha-Dev/silver-path/blob/main/screenshots/plan-visit-page1.png?raw=true",
+      "https://github.com/Achintha-Dev/silver-path/blob/main/screenshots/admin-login-page.png?raw=true",
+      "https://github.com/Achintha-Dev/silver-path/blob/main/screenshots/admin-dashboard-page.png?raw=true"
     ]
   },
   {
@@ -24,11 +24,12 @@ const projects = [
     link: "https://github.com/Achintha-Dev/DualMind_AI",
     technologies: ["React", "Node.js", 'Express.js', "MongoDB", "Google gemini API", "Pollinations AI", "TailwindCSS", "JWT Authentication", "RESTful API", "Google OAuth"],
     images: [
-      "client/images/dualMind_ai/home_page_light.png",
-      "client/images/dualMind_ai/chat-page-light.png",
-      "client/images/dualMind_ai/history-page-light.png",
-      "client/images/dualMind_ai/image-generation.png",
-      "client/images/dualMind_ai/login-page-light.png"
+      "https://github.com/Achintha-Dev/DualMind_AI/blob/main/screenshots/home_page_light.png?raw=true",
+      "https://github.com/Achintha-Dev/DualMind_AI/blob/main/screenshots/chat-page-light.png?raw=true",
+      "https://github.com/Achintha-Dev/DualMind_AI/blob/main/screenshots/history-page-light.png?raw=true",
+      "https://github.com/Achintha-Dev/DualMind_AI/blob/main/screenshots/image-generation.png?raw=true",
+      "https://github.com/Achintha-Dev/DualMind_AI/blob/main/screenshots/lgin-page-dark.png?raw=true",
+      "https://github.com/Achintha-Dev/DualMind_AI/blob/main/screenshots/register-page-dark.png?raw=true"
     ]
   }
 ];
