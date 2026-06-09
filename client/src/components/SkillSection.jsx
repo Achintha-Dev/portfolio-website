@@ -78,7 +78,7 @@ function SkillsSection() {
             <div className="flex flex-col md:flex-row justify-between items-baseline border-b border-black/20 pb-2 mb-10">
                 <h2 className="text-3xl md:text-5xl font-light tracking-tight uppercase">Technical Skills</h2>
                 <p className="text-xs md:text-sm font-sans uppercase tracking-widest text-black/60 mt-2 md:mt-0">
-                    Engineered to scale, secured by architecture
+                  Full-stack skills from UI to security
                 </p>
             </div>
 
