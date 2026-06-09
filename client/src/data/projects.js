@@ -8,12 +8,12 @@ const projects = [
     link: "https://github.com/Achintha-Dev/silver-path",
     technologies: ["React", "Node.js", "Express.js", "MongoDB", "TailwindCSS", "JWT Authentication", "RESTful API", "Cloudinary", "Leaflet.js"],
     images: [
-      "src/images/silver_path/home-page1.png",
-      "src/images/silver_path/destinations-page1.png",
-      "src/images/silver_path/map-page.png",
-      "src/images/silver_path/plan-visit-page1.png",
-      "src/images/silver_path/admin-login-page.png",
-      "src/images/silver_path/admin-dashboard-page.png"
+      "client/src/images/silver_path/home-page1.png",
+      "client/images/silver_path/destinations-page1.png",
+      "client/images/silver_path/map-page.png",
+      "client/images/silver_path/plan-visit-page1.png",
+      "client/images/silver_path/admin-login-page.png",
+      "client/images/silver_path/admin-dashboard-page.png"
     ]
   },
   {
@@ -24,11 +24,11 @@ const projects = [
     link: "https://github.com/Achintha-Dev/DualMind_AI",
     technologies: ["React", "Node.js", 'Express.js', "MongoDB", "Google gemini API", "Pollinations AI", "TailwindCSS", "JWT Authentication", "RESTful API", "Google OAuth"],
     images: [
-      "src/images/dualMind_ai/home_page_light.png",
-      "src/images/dualMind_ai/chat-page-light.png",
-      "src/images/dualMind_ai/history-page-light.png",
-      "src/images/dualMind_ai/image-generation.png",
-      "src/images/dualMind_ai/login-page-light.png"
+      "client/images/dualMind_ai/home_page_light.png",
+      "client/images/dualMind_ai/chat-page-light.png",
+      "client/images/dualMind_ai/history-page-light.png",
+      "client/images/dualMind_ai/image-generation.png",
+      "client/images/dualMind_ai/login-page-light.png"
     ]
   }
 ];
